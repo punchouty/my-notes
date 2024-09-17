@@ -49,7 +49,7 @@ Reference - https://hyperledger-fabric.readthedocs.io/en/latest/key_concepts.htm
 3. Response Aggregation
 
 ## Architecture Diagram
-
+![Architecture](images/DataExchangeArchitecture.png)
 ## Services
 ### Master data service
 Responsibilities
