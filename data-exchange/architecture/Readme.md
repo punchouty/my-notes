@@ -102,3 +102,7 @@ Responsibilities
 4. Instagram or facebook???
 5. YouTube ???
 6. LinkedIn and Twitter??
+
+## Customer 360
+1. Profile Store
+2. Configurable Spark based pipeline
